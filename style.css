@@ -1,0 +1,75 @@
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: oblique;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    height: 300px ;
+    width: 300px;
+}
+
+h3{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+Li{
+    font-size: large;
+    font-weight: bold;
+}    
+
+body{
+    background-image: url(./image26.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    z-index: -1;
+    filter: blur();
+}    
+
+OL{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    
+} 
+h3{
+    font-weight: bolder;
+    font-style: oblique;
+}
+h1{
+    background: whitesmoke;
+    color:black;
+    padding: 0 4px;
+    width: fit-content;
+    height: fit-content;
+}
+    
+h3{
+    background: whitesmoke;
+    color:black;
+    padding: 0 4px;
+    width: fit-content;
+    height: fit-content;
+}
+
+p{
+    background: whitesmoke;
+    color:black;
+    padding: 0 4px;
+    width: fit-content;
+    height: fit-content;
+}
+
+LI{
+    font-size: x-large;
+    font-weight: bold;
+    font-style: oblique;
+    color:rgb(255, 0, 0);
+
+}
